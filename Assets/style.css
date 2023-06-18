@@ -319,7 +319,7 @@ footer {
 
 /* background images for cards */
     #study-guide {
-        background-image: url(./images/studyguide.png);
+        background-color: purple;
     }
 
     #cheat-sheet {
